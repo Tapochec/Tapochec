@@ -1,5 +1,7 @@
 My name is Andrew Petrenko
+
 I am .net junior developer
+
 Currently working in 4A.Consult
 
 How to reach me:
