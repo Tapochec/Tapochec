@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Tapochec (actually, my real name is Andrew)
-- 👀 I’m interested in C# development (WPF, ASP)
-- 🌱 I’m currently learning ASP.NET
-- 💞️ I’m looking to collaborate with any project
-- 📫 How to reach me - and_petr_00@mail.ru
+My name is Andrew Petrenko
+I am .net junior developer
+Currently working in 4A.Consult
+
+How to reach me:
+  mail and_petr_00@mail.ru
+  telegram @jst_andy
 
 <!---
 Tapochec/Tapochec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
